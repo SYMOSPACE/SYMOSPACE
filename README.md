@@ -6,12 +6,10 @@
 
 I'm a passionate Full Stack Developer with expertise in building scalable web applications and complex software solutions. I thrive in dynamic environments and love solving challenging problems.
 
-- 🔭 I’m currently working on [Your Project]
-- 🌱 I’m currently learning [New Technology]
+- 🌱 I’m currently learning Web3
 - 👯 I’m looking to collaborate on open-source projects
 - 💬 Ask me about anything tech-related
-- 📫 How to reach me: [Your Email]
-- ⚡ Fun fact: [A fun fact about you]
+- 📫 How to reach me: simonmaina048@gmail.com
 
 ## 🛠️ Skills
 
@@ -45,8 +43,7 @@ I'm a passionate Full Stack Developer with expertise in building scalable web ap
 
 ## 📫 Connect with me:
 
-- LinkedIn: [Your LinkedIn Profile]
-- Twitter: [Your Twitter Handle]
-- Portfolio: [Your Portfolio Website]
-
+- LinkedIn: https://www.linkedin.com/in/simon-maina-04b22720b/
+- Twitter: https://x.com/Watene_Ceo
+- Portfolio: 
 
