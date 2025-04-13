@@ -1,4 +1,4 @@
-# Hi there, I'm [SYMOSPACE] 👋
+# Hi there, I'm SYMOSPACE 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=green)
 
